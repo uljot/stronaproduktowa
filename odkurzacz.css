@@ -1,0 +1,38 @@
+body{
+	background: #183a37;
+}
+
+h1, h2{
+	color: #c44900;
+	font-family: "calibri", sans-serif;
+	text-align: center;
+}
+
+img{
+	position: relative;
+    left: 27%;
+    border: 3px solid #c44900;
+}
+
+p, li{
+	color: #efd6ac;
+	font-family: sans-serif;
+}
+
+a:link{
+	color: #75b9be;
+	font-family: sans-serif;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #c44900;
+	font-family: sans-serif;
+	text-decoration: none;
+}
+
+a:visited{
+	color: #987284;
+	font-family: sans-serif;
+	text-decoration: none;
+}
